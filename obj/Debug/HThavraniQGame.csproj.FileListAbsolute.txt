@@ -1,0 +1,12 @@
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\bin\Debug\HThavraniQGame.exe.config
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\bin\Debug\HThavraniQGame.exe
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\bin\Debug\HThavraniQGame.pdb
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.Properties.Resources.resources
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.csproj.GenerateResource.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.csproj.CoreCompileInputs.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.exe
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.pdb
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.DesignForm.resources
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.csproj.AssemblyReference.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.QGameControlPanel.resources
+C:\Harshal\CPA\Fall 2021\PROG 2370\Assignments\HThavraniQGame\obj\Debug\HThavraniQGame.PlayForm.resources
